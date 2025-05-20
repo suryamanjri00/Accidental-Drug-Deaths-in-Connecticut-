@@ -114,9 +114,3 @@ Make sure the dataset `Accidental_Drug_Related_Deaths_2012-2022.csv` is in the p
 
 ---
 
-## 👩‍💻 Author
-
-**Your Name**  
-Data Science Student | Python Enthusiast  
-📧 your.email@example.com  
-📍 Connecticut, USA
